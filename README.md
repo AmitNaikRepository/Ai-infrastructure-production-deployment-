@@ -1,7 +1,7 @@
 # Ai-infrastructure-production-deployment-
 Building and documenting production-grade AI infrastructure that actually works.
 
-![Uploading linkedin_post.png…]()
+![Infra]
 
 # Start today with this
 git init production-ai-infrastructure
