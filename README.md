@@ -12,36 +12,7 @@ cat > README.md << 'EOF'
 
 ## 🎯 Mission
 Building and documenting production-grade AI infrastructure that actually works.
-
-production-ai-infrastructure/
-├── README.md                 # Journey tracker + learnings
-├── ROADMAP.md                # What's coming next
-├── docs/
-│   ├── architecture/         # Design decisions
-│   ├── benchmarks/          # Performance comparisons
-│   └── troubleshooting/     # Common issues + solutions
-├── 01-foundations/
-│   ├── docker/
-│   ├── kubernetes-basics/
-│   └── README.md            # Week 1-2 learnings
-├── 02-llm-serving/
-│   ├── vllm-deployment/
-│   ├── kv-cache/
-│   └── benchmarks/
-├── 03-vector-databases/
-│   ├── qdrant/
-│   ├── weaviate/
-│   └── performance-tests/
-├── 04-observability/
-│   ├── prometheus/
-│   ├── grafana-dashboards/
-│   └── cost-tracking/
-├── 05-production/
-│   ├── ci-cd/
-│   ├── helm-charts/
-│   └── disaster-recovery/
-└── experiments/
-    └── failed-attempts/      # Important: show what didn't work
+![structure](file structure .png)
 
 
 
