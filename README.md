@@ -1,7 +1,7 @@
 # Ai-infrastructure-production-deployment-
 Building and documenting production-grade AI infrastructure that actually works.
 
-![infrastructure]([http://url/to/img.png](https://github.com/AmitNaikRepository/Ai-infrastructure-production-deployment-/blob/main/linkedin_post.png))
+![plot]([http://url/to/img.png](https://github.com/AmitNaikRepository/Ai-infrastructure-production-deployment-/blob/main/linkedin_post.png))
 # Start today with this
 git init production-ai-infrastructure
 cd production-ai-infrastructure
