@@ -12,7 +12,7 @@ cat > README.md << 'EOF'
 
 ## 🎯 Mission
 Building and documenting production-grade AI infrastructure that actually works.
-![structure](file structure .png)
+![structure](file_structure.png)
 
 
 
